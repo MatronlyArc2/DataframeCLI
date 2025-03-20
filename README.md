@@ -56,3 +56,6 @@ Use the `q` command to exit the program.
 
 ### To Use:
 Run the `Main.java` class to start the program and begin interacting with the dataframes.
+
+### CSV Files:
+I have added CSV files in the repository if needed. You can import them using the `i` command by entering the filename without the `.csv` extension.
