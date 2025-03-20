@@ -53,3 +53,6 @@ Use the `z` command to export the active dataframe back to a `.csv` file.
 
 ### 6. Quit the Program
 Use the `q` command to exit the program.
+
+### To Use:
+Run the `Main.java` class to start the program and begin interacting with the dataframes.
